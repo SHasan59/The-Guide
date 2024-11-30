@@ -5,7 +5,7 @@
 <img src="https://m3-markdown-badges.vercel.app/stars/5/2/SHasan59/The-Guide"/> &nbsp;
 <img src="https://m3-markdown-badges.vercel.app/issues/7/2/SHasan59/The-Guide"/> 
 
-<img src="preview.png"/>
+<img src="preview 2.png"/>
 
 
 
