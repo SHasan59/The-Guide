@@ -27,6 +27,11 @@ This repository contains the source code, trained ML model, and related resource
 
 ---
 
+## Presentation  
+You can view the project presentation [here](https://docs.google.com/presentation/d/1Q1pjIl9ssAA49cWzYJy-AP-iywf1TJm26GihRztmcjU/edit?usp=sharing).  
+
+---
+
 ## Technologies Used  
 - **Programming Language**: Python  
 - **Machine Learning Frameworks**: Scikit-learn
