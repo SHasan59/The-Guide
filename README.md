@@ -38,8 +38,8 @@ This repository contains the source code, trained ML model, and related resource
 
 ## Acknowledgments  
 - **Contributors**:  Esteban Mesa, Samith Hasan, Ibrahim Faruqee
-- **Dataset Source**: 
-- **Inspiration**: Trouble choosing which car to buy 
+- **Dataset Source**: [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data) & [Vehicle Dataset 2024](https://www.kaggle.com/datasets/kanchana1990/vehicle-dataset-2024)
+- **Inspiration**: Trouble choosing which car to buy 😭
 
 ---
 
