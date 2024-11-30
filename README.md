@@ -1,8 +1,9 @@
 # The Guide 🚗
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"/> &nbsp;
-<img src="https://m3-markdown-badges.vercel.app/issues/7/2/SHasan59/CTPproject"/> &nbsp;
-<img src="https://m3-markdown-badges.vercel.app/stars/5/2/SHasan59/CTPproject"/>
+<img src="https://m3-markdown-badges.vercel.app/stars/5/2/SHasan59/The-Guide"/>
+<img src="https://m3-markdown-badges.vercel.app/issues/7/2/SHasan59/The-Guide"/> &nbsp;
+
 
 ## Overview  
 **The Guide 🚗** is a cutting-edge data science project leveraging machine learning to detect which car would be best for you. By analyzing a car inventory dataset, the model can proactively predict which car would be best for you based on what features you ask for.
