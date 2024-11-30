@@ -10,6 +10,7 @@
 
 This repository contains the source code, trained ML model, and related resources for the creation of the project.  
 
+<img src="Visualizations/visualizations_correlation_matrix.png"/>
 
 ---
 
