@@ -12,7 +12,7 @@ This repository contains the source code, trained ML model, and related resource
 ---
 
 ## Features  
-- ** Car Prediction**: Advanced machine learning algorithm trained on car inventory data.  
+- **Car Prediction**: Advanced machine learning algorithm trained on car inventory data.  
 
 
 ---
