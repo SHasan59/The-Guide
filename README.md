@@ -1,9 +1,12 @@
 # The Guide 🚗
-<img src="preview.png"/>
+
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"/> &nbsp;
 <img src="https://m3-markdown-badges.vercel.app/stars/5/2/SHasan59/The-Guide"/> &nbsp;
 <img src="https://m3-markdown-badges.vercel.app/issues/7/2/SHasan59/The-Guide"/> 
+
+<img src="preview.png"/>
+
 
 
 ## Overview  
