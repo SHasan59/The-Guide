@@ -15,6 +15,8 @@
 
 This repository contains the source code, trained ML model, and related resources for the creation of the project.  
 
+[Project Link](https://huggingface.co/spaces/Cipher29/CAR)
+
 <img src="Visualizations/visualizations_correlation_matrix.png"/>
 
 ---
